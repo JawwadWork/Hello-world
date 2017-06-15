@@ -1,0 +1,7 @@
+https://tabcorp.my.salesforce.com
+
+For IPad or Android device, please download the Salesforce1 app and follow the instructions from the attached file.
+
+If you are having trouble logging in, please let us know with the steps you are using to login.
+
+https://github.com/jawwadilyas/Hello-world.git
