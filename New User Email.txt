@@ -1,13 +1,3 @@
-
-
-Salesforce account has been created for you.
-
-In your browser, please enter https://tabcorp.my.salesforce.com and input your Tabcorp system credentials when prompted.
-
-To login from your IPad or Android device, please download the Salesforce1 app and follow the instructions from the attached file.
-
-If you are having trouble logging in, please reach out to us with the steps you are using to login.
-
 ================================================
 Salesforce account has been created.
 
